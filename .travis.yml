@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: riis-ci-github
+    organization: riis
     token: 35543d9f77ff3d4074f9b060b06136da7aed7dc9
 jdk:
   - oraclejdk8
